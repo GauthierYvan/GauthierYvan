@@ -2,7 +2,8 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open-source project 
-- 📫 How to reach me on my web site. 
+- 📫 How to reach me by email => gauthier.yvan@outlook.fr 
+
 
 <!---
 GauthierYvan/GauthierYvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
