@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open-source project 
-- 📫 How to reach me by email => gauthier.yvan@outlook.fr 
+- 📫 How to reach me 
 
 
 <!---
